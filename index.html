@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" ,content="width=device-width, initial-scale=1.0" />
+    <title>DevAngelica Portfolio Website</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css"
+      integrity="sha256-46qynGAkLSFpVbEBog43gvNhfrOj+BmwXdxFgVK/Kvc="
+      crossorigin="anonymous"
+    />
+
+    <link
+      href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,900|Source+Sans+Pro:300,900&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <header>
+      
+      <!--
+        <div class="logo">
+            <img src="assets/logo.png" alt="logotipo">
+        </div> -->
+
+      <button class="nav-toggle" aria-label="toggle navigation">
+        <span class="hamburger"></span>
+      </button>
+      <nav class="nav">
+        <ul class="nav__list">
+          <li class="nav__item"><a href="#home" class="nav__link">Home</a></li>
+          <li class="nav__item">
+            <a href="#services" class="nav__link">O que faço</a>
+          </li>
+          <li class="nav__item">
+            <a href="#about" class="nav__link">Sobre mim</a>
+          </li>
+          <li class="nav__item">
+            <a href="#work" class="nav__link">Meus projetos</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <!-- Introdução -->
+
+    <section class="intro" id="home">
+      <h1 class="section__title section__title--intro">
+        Olá, Eu sou <strong>Angelica Barros</strong>
+      </h1>
+      <p class="section__subtitle section__subtitle--intro">FRONT-END DEV</p>
+      <img
+        src="assets/dev-angelica-02.jpg"
+        alt=" uma foto da angelica sorrindo"
+        class="intro__img"
+      />
+    </section>
+
+    <!-- Meus serviços -->
+
+    <section class="my-services" id="services">
+      <h2 class="section__title section__title--services">O que faço</h2>
+      <div class="services">
+        <div class="service">
+          <h3>Desenvolvimento Responsivo</h3>
+          <p>
+            Crio websites que funcionam perfeitamente em dispositivos de todos
+            os tamanhos, garantindo uma experiência incrível para todos os
+            usuários, independentemente do dispositivo que estão usando.
+          </p>
+
+          <h3>HTML5/CSS3</h3>
+          <p>
+            Utilizo as tecnologias mais recentes para criar interfaces modernas
+            e elegantes, combinando HTML5 semântico e CSS3 avançado para tornar
+            o design realidade.
+          </p>
+        </div>
+
+        <div class="service">
+          <h3>JavaScript e Frameworks</h3>
+          <p>
+            Implemento interatividade e dinamismo em meus projetos usando
+            JavaScript e bibliotecas/frameworks como React e Vue.js para criar
+            experiências de usuário excepcionais.
+          </p>
+          <h3>Colaboração Criativa</h3>
+          <p>
+            Trabalho em estreita colaboração com designers e equipes criativas
+            para transformar conceitos em projetos práticos e atraentes.
+          </p>
+        </div>
+
+        <div class="service">
+          <h3>Otimização de Desempenho</h3>
+          <p>
+            Garanto que meus sites sejam rápidos e eficientes, otimizando o
+            carregamento de páginas, a fim de proporcionar uma navegação suave.
+          </p>
+          <h3>Atualizações e Manutenção</h3>
+          <p>
+            Ofereço suporte contínuo para garantir que seu site permaneça
+            atualizado e funcionando perfeitamente, mesmo após o lançamento. Meu
+            objetivo é criar soluções web impressionantes que não apenas atendam
+            às suas necessidades, mas também surpreendam e encantem seus
+            usuários. Estou sempre pronta para enfrentar desafios criativos e
+            abraçar novas tecnologias para criar o melhor resultado possível.
+          </p>
+        </div>
+      </div>
+
+      <a href="#work" class="btn">Meus projetos</a>
+    </section>
+
+    <!-- Sobre mim -->
+    <section class="about-me" id="about">
+      <h2 class="section__title section__title--about">Sobre mim</h2>
+      <p class="section__subtitle section__subtitle--about">
+        Desenvolvedora FRONT-END
+      </p>
+
+      <div class="about-me__body">
+        <p>
+          Sou uma desenvolvedora web front-end apaixonada por transformar ideias
+          criativas em experiências online incríveis. Meu foco principal está em
+          dar vida aos designs e tornar os sites mais atraentes e funcionais.
+          <br />
+          Sempre em busca de aperfeiçoamento, estou em constante aprendizado. Em
+          2022, conclui o programa
+          <a
+            href="https://www.oracle.com/br/education/oracle-next-education/"
+            target="_blank"
+            >Oracle next education - One</a
+          >
+          e também o programa
+          <a
+            href="https://parceiros.descomplica.com.br/instituto-nu"
+            target="_blank"
+            >Educação em Tech</a
+          >, uma parceria do Instituto Nu e Descomplica. Atualmente estou
+          participando como aluna do projeto
+          <a href="https://jabrasil.org.br/elasnatech23/" target="_blank"
+            >{Elas na Tech}</a
+          >, um programa focado na formação de mulheres na área de tecnologia.
+          Ok, vamos trabalhar juntos e dar vida à sua visão online!
+        </p>
+      </div>
+
+      <img
+        src="assets/dev-angelica-01.jpg"
+        alt="Angelica"
+        class="about-me__img"
+      />
+    </section>
+
+    <!-- Meu Trabalho -->
+    <section class="my-work" id="work">
+      <h2 class="section__title section__title--work">Meus Projetos</h2>
+      <p class="section__subtitle section__subtitle--work">
+        Conheça alguns dos projetos do meu portfólio.
+      </p>
+
+      <div class="portfolio">
+        <!-- Portfolio item 01 -->
+        <a
+          href="https://angelsrb.github.io/projeto-loja-virtual-com-bootstrap/"
+          class="portfolio__item"
+          target="_blank"
+        >
+          <img src="assets/lojavirtual.png" alt="" class="portfolio__img" />
+        </a>
+
+        <!-- Portfolio item 02 -->
+        <a
+          href="https://angelsrb.github.io/atividade-3-site-simples-com-html-e-css/"
+          class="portfolio__item"
+          target="_blank"
+        >
+          <img src="assets/siteods.png" alt="" class="portfolio__img" />
+        </a>
+
+        <!-- Portfolio item 03 -->
+        <a
+          href="https://angelsrb.github.io/projeto-devlinks/"
+          class="portfolio__item"
+          target="_blank"
+        >
+          <img src="assets/devlinks2.png" alt="" class="portfolio__img" />
+        </a>
+
+        <!-- Portfolio item 04 -->
+        <a
+          href="https://angelsrb.github.io/Atividade-02-Cardapio/"
+          class="portfolio__item"
+          target="_blank"
+        >
+          <img src="assets/cardapio.png" alt="" class="portfolio__img" />
+        </a>
+      </div>
+    </section>
+
+    <!-- Rodapé -->
+    <footer class="footer">
+      <a
+        href="mailto:angelsrb.vouserdev@gmail.com"
+        class="footer__link"
+        target="_blank"
+        >angelsrb.vouserdev@gmail.com</a
+      >
+      <ul class="social-list">
+        <li class="social-list__item">
+          <a
+            class="social-list__link"
+            href="https://www.youtube.com/channel/UC0R0dRDo61SUw3FSUfZ2hRQ"
+            target="_blank"
+          >
+            <i class="fab fa-youtube"></i>
+          </a>
+        </li>
+        <li class="social-list__item">
+          <a
+            class="social-list__link"
+            href="https://www.instagram.com/angelsrb.dev/"
+            target="_blank"
+          >
+            <i class="fab fa-instagram"></i>
+          </a>
+        </li>
+        <li class="social-list__item">
+          <a
+            class="social-list__link"
+            href="https://www.linkedin.com/in/angelsrb/"
+            target="_blank"
+          >
+            <i class="fab fa-linkedin"></i>
+          </a>
+        </li>
+        <li class="social-list__item">
+          <a
+            class="social-list__link"
+            href="https://github.com/Angelsrb"
+            target="_blank"
+          >
+            <i class="fab fa-github"></i>
+          </a>
+        </li>
+      </ul>
+      <p>feito com ♥ por Angelica</p>
+    </footer>
+
+    <script src="index.js"></script>
+  </body>
+</html>
