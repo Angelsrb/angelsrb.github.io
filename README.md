@@ -18,6 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Portfolio é um conjunto dos melhores trabalhos de um profissional.
+
 Critérios Obrigatórios que serão avaliados:
 
 1. Nome do repositório no padrão SeuUsuario.github.io.
@@ -31,7 +32,5 @@ Critérios Obrigatórios que serão avaliados:
 9. Responsividade na parte do portfólio e nos projetos também.
 10. Usabilidade e navegação. Quanto mais intuitivo melhor.
 
-## :memo: Licença
-Esse projeto está sob a licença MIT.
----
+
 
