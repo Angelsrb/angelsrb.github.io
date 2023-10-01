@@ -15,7 +15,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
   
-  
 ## 💻 Projeto
 
 Portfolio é um conjunto dos melhores trabalhos de um profissional.
@@ -31,9 +30,6 @@ Critérios Obrigatórios que serão avaliados:
 8. Rodapé com devidas informações de crédito e contato.
 9. Responsividade na parte do portfólio e nos projetos também.
 10. Usabilidade e navegação. Quanto mais intuitivo melhor.
-
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
-
 
 ## :memo: Licença
 Esse projeto está sob a licença MIT.
