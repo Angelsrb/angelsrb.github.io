@@ -5,11 +5,9 @@ alunas do projeto em uma entrega adequada ao conhecimento adquirido e aos
 requerimentos do mercado de trabalho.
 <br/>
 
-![portfolio_preview](https://github.com/Angelsrb/angelsrb.github.io/assets/88409118/c08dca40-51c4-4d9b-83ea-0f7d65f350b3)
+<div align="center"> 
+  <img src="https://github.com/Angelsrb/angelsrb.github.io/assets/88409118/c08dca40-51c4-4d9b-83ea-0f7d65f350b3.png" width= "500px"/> </div>
 
-<p align="center">
-  <img alt="Portfólio de Angelica Barros" src="![portfolio_preview](https://github.com/Angelsrb/angelsrb.github.io/assets/88409118/c08dca40-51c4-4d9b-83ea-0f7d65f350b3)" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
