@@ -1,4 +1,4 @@
-#<h1 align="center"> Projeto Final do Elas na Tech – Portfolio Profissional </h1>
+<h1 align="center"> Projeto Final do Elas na Tech – Portfolio Profissional </h1>
 <p align="center">
 A entrega final do ElasNaTech tem como objetivo concretizar os aprendizados das
 alunas do projeto em uma entrega adequada ao conhecimento adquirido e aos
@@ -6,7 +6,7 @@ requerimentos do mercado de trabalho.
 <br/>
 
 <p align="center">
-  <img alt="Portfólio de Angelica Barros" src=".github/preview.jpg" width="100%">
+  <img alt="Portfólio de Angelica Barros" src=".github/portfolio_preview" width="100%">
 </p>
 
 ## 🚀 Tecnologias
