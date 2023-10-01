@@ -5,8 +5,10 @@ alunas do projeto em uma entrega adequada ao conhecimento adquirido e aos
 requerimentos do mercado de trabalho.
 <br/>
 
+![portfolio_preview](https://github.com/Angelsrb/angelsrb.github.io/assets/88409118/c08dca40-51c4-4d9b-83ea-0f7d65f350b3)
+
 <p align="center">
-  <img alt="Portfólio de Angelica Barros" src=".github/portfolio_preview" width="100%">
+  <img alt="Portfólio de Angelica Barros" src="![portfolio_preview](https://github.com/Angelsrb/angelsrb.github.io/assets/88409118/c08dca40-51c4-4d9b-83ea-0f7d65f350b3)" width="100%">
 </p>
 
 ## 🚀 Tecnologias
